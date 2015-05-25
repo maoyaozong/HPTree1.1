@@ -1,0 +1,4 @@
+filename=human_combine
+local_path=/home/dm/maoyaozong
+dfs_path=/user/dm/maoyaozong
+reduce_number=4
